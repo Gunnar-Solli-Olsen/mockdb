@@ -1,18 +1,6 @@
-[
-    {
-        "id":1,
-        "form": {
-            "name":"Testnavn",
-            "email":"emadadadil@test.no",
-            "feedback":"wuwuwadadadu"
-        }
-    },
-    {
-        "id":2,
-        "form": {
-            "name":"Testnavn2",
-            "email":"email@test.no",
-            "feedback":"wuwuwu"
-        }
-    }
-]
+{
+    "form": [
+      { "id": 1, "name": "Peter", "epost": "peter@gmail.com", "message": "is ok" },
+      { "id": 2, "name": "Amanda", "epost": "amanda@gmail.com", "message": "yes" }
+    ]
+  }
