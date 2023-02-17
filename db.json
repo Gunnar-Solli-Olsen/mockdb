@@ -4,5 +4,12 @@
     "name":"Testnavn",
     "email":"email@test.no",
     "feedback":"wuwuwu"
+  },
+  {
+    "id":2,
+    "name":"Testnavn2",
+    "email":"emai2l@test.no",
+    "feedback":"wuwuwu222222"
   }
+  
 }
