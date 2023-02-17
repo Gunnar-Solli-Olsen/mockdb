@@ -1,6 +1,19 @@
-{
-    "id":1,
-    "name":"Testnavn",
-    "email":"email@test.no",
-    "feedback":"wuwuwu"
-}
+[
+    {
+        "id":1,
+        "form": {
+            "name":"Testnavn",
+            "email":"emadadadil@test.no",
+            "feedback":"wuwuwadadadu"
+        }
+    },
+    {
+        "id":2,
+        "form": {
+            "name":"Testnavn2",
+            "email":"email@test.no",
+            "feedback":"wuwuwu"
+        }
+    }
+    
+]
