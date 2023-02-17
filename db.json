@@ -1,6 +1,6 @@
 {
     [
-      "form": { "id": 1, "name": "Peter", "epost": "peter@gmail.com", "message": "is ok" },
-      "form": { "id": 2, "name": "Amanda", "epost": "amanda@gmail.com", "message": "yes" }
+      { "id": 1, "name": "Peter", "epost": "peter@gmail.com", "message": "is ok" },
+      { "id": 2, "name": "Amanda", "epost": "amanda@gmail.com", "message": "yes" }
     ]
   }
